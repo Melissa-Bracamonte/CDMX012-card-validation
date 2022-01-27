@@ -3,28 +3,46 @@
   <head>
     <meta charset="utf-8">
     <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&family=Roboto:wght@100&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
+    <header>
+      <div class="anchoEncabezado">
+        <div class="logo">
+          <img class="logo1" src="https://www.pngmart.com/files/3/Makeup-PNG-Clipart.png" alt="">
+        </div>
+        <nav>
+          <ul>
+            <li>Inicio</li>
+            <li>Nosotros</li>
+            <li>Tienda</li>
+            <li>Contactanos</li>
+          </ul>
+        </nav>
+      </div>
+    </header>
     <main>
-  <h1>Valida tu tarjeta de crédito</h1>
-  <p>Bienvenida</p>
-  <p>Aquí puedes verificar la validez de cualquier tipo de tarjeta de crédito, sin importar su banco de origen, solo debes ingresar los datos que pedimos a continuación:</p>
-  <p>Nombre del usuario:</p>
-  <input type="text" name= "name" id="name1">
-    <br>
-    <br>
-  <p>Número de tarjeta:</p>
-  <input type="password" name="card" id="card1">
-    <br>
-    <br>
-  <input type="checkbox" id="mostrarNumero">Ver número
-    <br>
-    <br>
-    <button id="boton">Validar</button>
-    <br>
-    <br>
-    <h2 id="validationMessage"> </h2>
+      <br>
+      <br>
+      <div class="container">
+        <h1>Valida tu tarjeta de crédito</h1>
+        <br>
+        <p>¡Bienvenida!</p>
+        <p>Antes de iniciar tu compra, verificaremos la validez de tu tarjeta</p>
+        <br> 
+        <p>Ingrese número de tarjeta:</p>
+          <input type="text" name="card" id="card1" class= "TcNumber" maxlength="16" inputmode="numeric">
+          <br>
+          <br>
+          <button class="containerButton" id="boton">Validar</button>
+          <br>
+          <br>
+            <div id="validationMessage1"><h2 id="validationMessage"></h2></div>
+      </div>
     </main>
     <footer></footer>
     <script src="index.js" type="module"></script>

@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    width: 100%;
+    background-image: linear-gradient(to right, #c0c1dc 0%, #f59384 100%);
+}
+
+.container{
+    text-align: center;
+    margin: 90px 0;
+}
+
+header{
+    width: 100%;
+    background: #f78776;
+    height: 80px;
+}
+
+.anchoEncabezado{
+ width: 80%;
+ height: 70px;
+ /*background: red;*/
+ margin: auto;
+}
+
+.logo{
+    width: 30%;
+    height: 70px;
+    /*background: blue;*/
+    float: left;
+    padding-top: 5px;
+    box-sizing: border-box;
+}
+
+.logo1{
+    max-width: 170%;
+    max-height: 130%;
+}
+
+.logo1:hover{
+    -webkit-transform: rotate(30deg);
+    transition: 2s ease-in-out;
+}
+
+nav{
+    width: 70%;
+    height: 70px;
+    /*background: olive;*/
+    float: left;
+    text-align: right;
+    text-transform: uppercase;
+    padding-top: 24px;
+    box-sizing: border-box;
+}
+
+nav ul li{
+    display: inline;
+    color: black;
+    font-size: 13px;
+    padding-left: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+nav ul li:hover{
+    color: #f5d678;
+}
+
+.TcNumber{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: #efb810;
+    position: relative;
+}
+
+.containerCheckBox{
+    background-color: rgb(255, 255, 255);
+    width: 25px;
+    height: 13px;
+    border-radius: 5px;
+    border-color: #efb810;
+}
+
+.containerButton{
+    border: none;
+    width: 120px;
+    height: 35px;
+    background-color: #f3715b;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.containerButton:hover{
+    background-color: #f5d678;
+}
+
+#validationMessage1{
+    width: 450px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
