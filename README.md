@@ -20,11 +20,13 @@ A continuación tres imagenes de cómo se visualiza la pantalla final de la pág
 
 ![Vista 1](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/3062170e4a5b0bb75ef5c3c4664fcb3977c38c4e/Imagenes%20Readme/Card%20validation%20-%20vista1.png)
 
-"C:\Users\Melissa Bracamonte\OneDrive\Escritorio\Card validation - vista1.png"
-
 * Vista final cuando el usuario ingresa un número de tarjeta valido
 
+![Vista 2]()
+
 * Vista final cuando el usuario ingresa un número de tarjeta invalido
+
+![Vista 3]()
 
 ## 3. Investigación UX
 
@@ -34,4 +36,8 @@ Las usuarias están interesadas en no perder tiempo repitiendo procesos y en sen
 
 * Este fue el primer boceto que se realizó previo al maquetado en html y css:
 
+![Boceto 1]()
+
 * Este fue el boceto final que resultó del feedback recibido por las coaches:
+
+![Boceto 2]()
