@@ -41,3 +41,7 @@ Las usuarias están interesadas en no perder tiempo repitiendo procesos y en sen
 * Este fue el boceto final que resultó del feedback recibido por las coaches:
 
 ![Boceto 2](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/aa08f536f8d74018296922daa844571a9d66fc61/Imagenes%20Readme/Boceto%202.jpeg)
+
+* Este fue el prototipo final que se realizó en figma:
+
+![prototipo final](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/main/Imagenes%20Readme/Prototipo%20figma%20-%20card%20validation.png)
