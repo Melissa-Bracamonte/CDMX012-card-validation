@@ -1,6 +1,6 @@
 //2. Crear un objeto donde se desarrolla todo el algoritmo de Luhn.
 const validator = {
-  isValid (numero){
+  isValid(numero){
     //3. Convertir el valor del número de la tarjeta de crédito del usuario en un array.
     let array=numero.split("");
 

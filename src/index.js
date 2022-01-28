@@ -1,12 +1,11 @@
 import validator from './validator.js';
-//console.log(validator);
 
 // 1. Recibir el valor de la tarjeta de crédito del usuario.
 document.getElementById("boton").addEventListener("click", cardNumber);
 function cardNumber() {
   let numero = document.getElementById("card1").value;
   if(numero.length == 0){
-    numero = "m"
+    numero = "-"
   }
   //10. Mostrar mensaje en pantalla: tarjeta valida (verde) o tarjeta invalida (rojo), dependiendo del resultado del algoritmo de Luhn.
   validator.isValid(numero);
