@@ -18,7 +18,7 @@ A continuación tres imagenes de cómo se visualiza la pantalla final de la pág
 
 * Vista final
 
-![Vista 1]("C:\Users\Melissa Bracamonte\OneDrive\Escritorio\Card validation - vista1.png")
+![Vista 1]("https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/3062170e4a5b0bb75ef5c3c4664fcb3977c38c4e/Imagenes%20Readme/Card%20validation%20-%20vista1.png")
 
 "C:\Users\Melissa Bracamonte\OneDrive\Escritorio\Card validation - vista1.png"
 
