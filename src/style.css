@@ -80,13 +80,7 @@ nav ul li:hover{
     position: relative;
 }
 
-.containerCheckBox{
-    background-color: rgb(255, 255, 255);
-    width: 25px;
-    height: 13px;
-    border-radius: 5px;
-    border-color: #efb810;
-}
+
 
 .containerButton{
     border: none;
