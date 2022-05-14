@@ -34,14 +34,6 @@ Esta funcionalidad fue pensada como una parte previa al proceso de pago en líne
 
 Las usuarias están interesadas en no perder tiempo repitiendo procesos y en sentirse seguras mientras escriben sus datos bancarios, por esta razón se enmascararon los primeros digitos del número de tarjeta y una vez que la tarjeta es validada, ese dato es guardado para que pueda continuar con su proceso de pago sin tener que escribir la tarjeta de crédito una vez más.
 
-* Este fue el primer boceto que se realizó previo al maquetado en html y css:
-
-![Boceto 1](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/aa08f536f8d74018296922daa844571a9d66fc61/Imagenes%20Readme/Boceto%201.jpeg)
-
-* Este fue el boceto final que resultó del feedback recibido por las coaches:
-
-![Boceto 2](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/aa08f536f8d74018296922daa844571a9d66fc61/Imagenes%20Readme/Boceto%202.jpeg)
-
-* Este fue el prototipo final que se realizó en figma:
+* Este fue el prototipo que se realizó en figma:
 
 ![prototipo final](https://raw.githubusercontent.com/Melissa-Bracamonte/CDMX012-card-validation/main/Imagenes%20Readme/Prototipo%20figma%20-%20card%20validation.png)
